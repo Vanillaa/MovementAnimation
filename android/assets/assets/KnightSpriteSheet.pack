@@ -1,0 +1,47 @@
+
+KnightSpriteSheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+knightright2
+  rotate: false
+  xy: 1, 1
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1
+knightright1
+  rotate: false
+  xy: 111, 8
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+knightleft3
+  rotate: false
+  xy: 227, 17
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+knightleft2
+  rotate: false
+  xy: 351, 20
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+knightleft1
+  rotate: false
+  xy: 458, 15
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1
+knightright3
+  rotate: false
+  xy: 559, 16
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
